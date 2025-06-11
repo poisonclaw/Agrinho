@@ -1,0 +1,13 @@
+h1 {text-align: center;
+}
+
+#bandeira {
+    border-style: dotted;width: 20%; margin-left: 40%;
+}
+h2 {
+    text-align: center; background-color: rgba(183, 255, 189, 0.404);
+margin-left: 40%; margin-right: 40%;
+}
+header {text-align: center; background-color: rgb(119, 138, 77); font-size: 160%;font-style: oblique; border-style: double;border-color: rgb(109, 109, 109);
+}
+ul {font-size: 63%;}
