@@ -11,3 +11,6 @@ margin-left: 40%; margin-right: 40%;
 header {text-align: center; background-color: rgb(119, 138, 77); font-size: 160%;font-style: oblique; border-style: double;border-color: rgb(109, 109, 109);
 }
 ul {font-size: 63%;}
+#arapongasestrada {
+    width: 40%; border-style: dotted;margin-left: 30%;
+}
