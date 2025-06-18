@@ -10,7 +10,8 @@ margin-left: 40%; margin-right: 40%;
 }
 header {text-align: center; background-color: rgb(75, 74, 74); font-size: 160%;font-style: oblique; border-style: double;border-color: rgb(245, 225, 112); color: aliceblue;
 }
-ul {font-size: 63%;}
+ul {font-size: 63%; border-style: inset; border-color: chocolate; background-color: rgb(216, 137, 62);
+}
 #arapongasestrada {
     width: 40%; border-style: dotted;margin-left: 30%;
 }
